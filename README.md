@@ -31,9 +31,13 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 ### 🟥 Stage 1
 - Name/Alias:Sarah
 - Github account:
-- Published webpage for stage 1:https://yjk2004.github.io/exquisite-corpse-stage-1-Mood-With-Emoji/
+- Published webpage for stage 1: https://yjk2004.github.io/exquisite-corpse-stage-1-Mood-With-Emoji/
 
-*... comments to be added here*
+##### notes
+My purpose of this sketch to create a calendar that changes the right mood of the day with emojis everytime the day changes. At first, I referred to Leo's sketch, but it was far from what I wanted to do so I dedcided to get help from AI generator this time. I learned another calls(coding) through AI generator.
+- 'lastFrame' keeps track of the frame count when the text was last changed.
+- In the 'draw()' function, it checks if 60 frames (which is roughly equivalent to 1 second at 60 frames per secon) have elapsed since the last text change. If so, it increments'currentIndex' and updates 'lastFrame'. This endsures the text changes automatically without needing a mouse click.
+- I also wanted to indicate the number count that changes after finish each round. I added a 'weekCount' variable to keep track of the number of completed weeks. The "week:" label is displayed along with the 'weekCount' variable. When one round(a week) is completed(i.e. 'currentIndex' is back to 0). the 'weekCount' is increased by 1.
 
 ### 🟨 Stage 2
 - Name/Alias:
