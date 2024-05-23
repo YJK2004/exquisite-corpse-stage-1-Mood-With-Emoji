@@ -1,5 +1,5 @@
 # Exquisite Corpse in Silico
-## 🔻 *(unique title from stage 1 goes here)* 🔻
+## 🔻 *CALENDAR: mood with emoji* 🔻
 
 This README file contains:
 - Briefs for each stage of the assignment
@@ -29,9 +29,9 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 ## Comments for each stage
 
 ### 🟥 Stage 1
-- Name/Alias:
+- Name/Alias:Sarah
 - Github account:
-- Published webpage for stage 1:
+- Published webpage for stage 1:https://yjk2004.github.io/exquisite-corpse-stage-1-Mood-With-Emoji/
 
 *... comments to be added here*
 
